@@ -3,7 +3,7 @@ Simply proxy check HTTP(S)/SOCKS5
 
 ### Install
 ```bash
-npm i --save https://github.com/KosenoG/proxy-check
+npm i nodejs-proxy-check
 ```
 ### Usage
 ```javascript
