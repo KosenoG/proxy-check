@@ -1,7 +1,11 @@
 # Check proxy for NodeJS
 Simply proxy check HTTP(S)/SOCKS5
 
-
+### Install
+```bash
+npm i --save https://github.com/KosenoG/proxy-check
+```
+### Usage
 ```javascript
 const proxy_check = require('proxy-check');
 
@@ -18,3 +22,4 @@ proxy_check(proxy).then(r => {
 }).catch(e => {
   console.error(e); // ECONNRESET
 });
+```
