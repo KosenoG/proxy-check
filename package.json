@@ -11,7 +11,7 @@
     "proxy-check"
   ],
   "main": "index.js",
-  "name": "proxy-check",
+  "name": "nodejs-proxy-check",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
