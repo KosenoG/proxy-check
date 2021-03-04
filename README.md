@@ -7,7 +7,7 @@ npm i nodejs-proxy-check
 ```
 ### Usage
 ```javascript
-const proxy_check = require('proxy-check');
+const proxy_check = require('nodejs-proxy-check');
 
 const proxy = {
   host: '10.54.34.22',
