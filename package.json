@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/KosenoG/proxy-check/issues"
+  },
+  "author": "Kosenkov Ilya (KosenoG)",
+  "description": "Proxy check for NodeJS",
+  "homepage": "https://github.com/KosenoG/proxy-check#readme",
+  "keywords": [
+    "proxy",
+    "proxy-check"
+  ],
+  "main": "index.js",
+  "name": "proxy-check",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KosenoG/proxy-check.git"
+  },
+  "dependencies": {
+    "socks5-http-client": "1.0.4",
+    "request": "2.88.2"
+  }
+}
